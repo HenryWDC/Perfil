@@ -1,0 +1,21 @@
+.button_menu{
+    display: inline-block;
+    background-color: #DC2F02;
+    font-family: 'fira code',sans-serif;
+    color: #fff;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 0;
+    text-decoration: none;
+    box-shadow: 5px 5px 0 #000 ;
+    transition: 0.5s linear;
+}
+.button_menu:hover{
+    border:5px solid #9D0208;
+}
+.btn_one{
+    margin-left: 20px;
+    margin-top: 20px;
+}
