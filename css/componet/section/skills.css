@@ -6,16 +6,20 @@
     border-bottom: 10px solid #03071E;
 }
 .skill_level{
+    display: flex;
     width: 80px;
     height: 90px;
     margin-left: 250px;
     margin-top: 50px;
 }
 .icon_skills{
-    width: 60px;
     height: 50px;
+    margin-right: 25px;
 }
 .skill_name{
     font-family: 'Press Start 2P' ,sans-serif;
     color: white;
+}
+.progress_bar::-webkit-{
+    background-color: #370617;
 }
