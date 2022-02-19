@@ -76,13 +76,15 @@ body{
     padding-top: 40px;
     margin-bottom: 5px;
     margin-top: 0;
+    text-shadow: 5px 5px #000;
 }
 .carrer{
-    font-family: "Pres start 2P" ,sans-serif;
+    font-family: "Press start 2P" ,sans-serif;
     text-align: center;
     color: #FAA307;
     font-size: 30px;
     margin-top: 0;
+    text-shadow: 5px 5px #000;
 }
 .btn_one{
     margin-left: 20px;
