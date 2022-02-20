@@ -7,19 +7,31 @@
 }
 .skill_level{
     display: flex;
-    width: 80px;
-    height: 90px;
     margin-left: 250px;
     margin-top: 50px;
 }
+.container_skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
 .icon_skills{
-    height: 50px;
+    height: 80px;
     margin-right: 25px;
 }
 .skill_name{
     font-family: 'Press Start 2P' ,sans-serif;
     color: white;
 }
-.progress_bar::-webkit-{
-    background-color: #370617;
+.progress{
+    height: 10px;
+    width: 250px;
+    border: 2px solid black;
+    background: linear-gradient(to right, #03071E 0%, #03071E 70%, white 70%);
+}
+.progress_JavaScript{
+    height: 10px;
+    width: 250px;
+    border: 2px solid black;
+    background: linear-gradient(to right, #03071E 0%, #03071E 40%, white 40%)
 }
