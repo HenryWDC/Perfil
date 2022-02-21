@@ -1,0 +1,12 @@
+.about{
+    background-color: #F48C06;
+    border-bottom: #D00000;
+}
+.box_description{
+    margin: 0, 80px;
+}
+.description{
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
