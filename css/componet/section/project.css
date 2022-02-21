@@ -1,0 +1,21 @@
+.project{
+    background-color: black;
+    border-bottom: 10px solid #E85D04;
+}
+.project_card{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+.project_icon{
+    background-color: #370617;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img-project{
+    height: 200px;
+    width: 200px;
+}
