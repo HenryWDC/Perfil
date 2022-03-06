@@ -9,6 +9,8 @@
 }
 .project_icon{
     background-color: #370617;
+    box-sizing: border-box;
+    display: block;
     width: 300px;
     height: 300px;
     box-shadow: 5px 5px white;
@@ -18,4 +20,5 @@
 .img-project{
     height: 200px;
     width: 200px;
+    margin: 50px;
 }
