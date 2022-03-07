@@ -13,13 +13,18 @@
     height: 15px;
     border: 15px solid transparent;
     border-left:28px solid white ;
+    transform: translateX(5px);
 }
 .button-arrow .content{
     display: none;
 }
-.-right{
-
-}
-.-left{
-
+.-left::before{
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+    border: 15px solid transparent;
+    border-right:28px solid white ;
+    transform: translateX(-15px);
 }
