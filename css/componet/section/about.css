@@ -1,8 +1,14 @@
 .about{
     background-color: #F48C06;
     border-bottom: #D00000;
+    display: flex;
+    flex-direction: column;
 }
 .box_description{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
     margin: 0, 80px;
 }
 .description{
