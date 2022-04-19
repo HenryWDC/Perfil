@@ -1,0 +1,25 @@
+.skills_page{
+    box-sizing: border-box;
+    background-color: #DC2F02;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 10px solid #03071E;
+}
+.skill_level{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.container_skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.icon_skills{
+    height: 80px;
+    margin-right: 25px;
+}
+.skill_name{
+    font-family: 'Press Start 2P' ,sans-serif;
+    color: white;
+}

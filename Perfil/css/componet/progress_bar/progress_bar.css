@@ -1,0 +1,12 @@
+.progress{
+    height: 10px;
+    width: 250px;
+    border: 2px solid black;
+    background: linear-gradient(to right, #03071E 0%, #03071E 70%, white 70%);
+}
+.progress_JavaScript{
+    height: 10px;
+    width: 250px;
+    border: 2px solid black;
+    background: linear-gradient(to right, #03071E 0%, #03071E 40%, white 40%)
+}
